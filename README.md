@@ -254,4 +254,4 @@ doclawtec-electronics/
 For technical support or development inquiries:
 - Email: doclaw0@gmail.com
 - Technical Lead: Dr. Lawrence Ouma
-- Repository: [GitHub Repository URL] 
+- Repository: [https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-doclaw7.git] 
